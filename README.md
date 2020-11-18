@@ -4,7 +4,7 @@ Data_Camp_Data_Science
 
 Statistics
 
-   Statistics is the study of how to collect, analyze, and draw conclusions from data. It’s a hugely valuable tool that you can use to bring the future into focus and infer the answer to tons of questions. For example, what is the likelihood of someone purchasing your product, how many calls will your support team receive, and how many jeans sizes should you manufacture to fit 95% of the population? In this repo, most situations like these where covered, using scatterplots to show the relationship between numeric values, and calculating correlation. Probability was also tackled, the backbone of statistical reasoning, and how to use Python to conduct a well-designed study to draw your own conclusions from data.
+   Statistics is the study of how to collect, analyze, and draw conclusions from data. It’s a hugely valuable tool that you can use to bring the future into focus and infer the answer to tons of questions. In this repo, most situations are covered using scatterplots to show the relationship between numeric values, and calculating correlation. Probability was also tackled, the backbone of statistical reasoning, and how to use Python to conduct a well-designed study to draw your own conclusions from data.
 
 Modules
 
