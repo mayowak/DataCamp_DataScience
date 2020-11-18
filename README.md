@@ -8,15 +8,15 @@ Statistics
 
 Modules
 
-**Summary Statistics 
+**[Summary Statistics](https://github.com/mayowak/DataCamp_DataScience/blob/main/intro_to_statistics/measures_of_center_and_spread.ipynb)
 
    Summary statistics gives you the tools you need to boil down massive datasets to reveal the highlights. In this repo, I explored summary statistics including mean, median, and standard deviation, and showed how to accurately interpret them.
     
-**Random Numbers and Probability 
+**[Random Numbers and Probability](https://github.com/mayowak/DataCamp_DataScience/blob/main/intro_to_probability/Random_numbers_and_probability.ipynb)
 
    In this repo, I cocered how to generate random samples and measure chance using probability. I also worked with real-world sales data to calculate the probability of a salesperson being successful. Finally, I used the binomial distribution to model events with binary outcomes.
     
-**More distributions and the central limit theorem
+**[More distributions and the central limit theorem](https://github.com/mayowak/DataCamp_DataScience/blob/main/intro_to_probability/Normal_distribution.ipynb)
 
    I created histograms to plot normal distributions and displayed examples of the central limit theorem, before working on statistical functions by adding the Poisson, exponential, and t-distributions to my repertoire.
     
@@ -31,11 +31,11 @@ Supervised Learning with Scikit-Learn
 
 Modules
 
-**Classification 
+**[Classification](https://github.com/mayowak/DataCamp_DataScience/blob/main/supervised_learning/Classification%20.ipynb)
 
    Classification is the process of predicting the class of given data points. Classes are sometimes called as targets/ labels or categories. For example, spam detection in email service providers can be identified as a classification problem. This is s binary classification since there are only 2 classes as spam and not spam. A classifier utilizes some training data to understand how given input variables relate to the class. In this case, known spam and non-spam emails have to be used as the training data. When the classifier is trained accurately, it can be used to detect an unknown email. Classification belongs to the category of supervised learning where the targets also provided with the input data.
     
-**Regression 
+**[Regression](https://github.com/mayowak/DataCamp_DataScience/blob/main/supervised_learning/Regression.ipynb)
 
    Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent (target) and independent variable (s) (predictor). This technique is used for forecasting, time series modelling and finding the causal effect relationship between the variables. For example, relationship between rash driving and number of road accidents by a driver is best studied through regression.
     
